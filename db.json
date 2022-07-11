@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pep",
+      "empresa": "Status",
+      "email": "status@status.com",
+      "telefono": "971565316",
+      "notas": "Cliente principal",
+      "id": 1
+    },
+    {
+      "nombre": "Catalina",
+      "empresa": "Ajuntament de Santanyí",
+      "email": "cati@cati.com",
+      "telefono": "666112233",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Dani",
+      "empresa": "ManoMano",
+      "email": "dani@manomano.com",
+      "telefono": "664545454",
+      "notas": "Empresa importante",
+      "id": 3
+    }
+  ]
+}
